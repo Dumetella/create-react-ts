@@ -4,7 +4,7 @@ import './index.css'
 function App(): JSX.Element {
 
     return (
-        <h1>Abuba</h1>
+        <h1>All OK, get to work</h1>
     );
 }
 
